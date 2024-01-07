@@ -35,4 +35,3 @@ while True:
     if "_" not in blank_list:
         print("Congratulations! You guessed the word: " + secret_word)
         break
-
